@@ -31,3 +31,8 @@ Python, PySpark, Databricks, Unity Catalog, CatBoost, pandas, seaborn
 ## Autor
 
 Bernardo Rosales — [LinkedIn](https://linkedin.com/in/bernardo-rosales-romero)
+## Dataset
+
+Fuente: [ENOE — INEGI](https://www.inegi.org.mx/programas/enoe/15ymas/)  
+Período: 2020 T1 — 2025 T2  
+Población objetivo: Jóvenes de 18 a 29 años en la Ciudad de México
